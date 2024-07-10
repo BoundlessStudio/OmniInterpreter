@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoundlessAi.OmniInterpreter", "src\BoundlessAi.OmniInterpreter.csproj", "{0F35307D-1E2F-4F49-A9FB-F48EFBE77DCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoundlessAi.OmniInterpreter.Tests", "tests\BoundlessAi.OmniInterpreter.Tests.csproj", "{3490B595-6CB6-40A7-989D-D71006587FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F35307D-1E2F-4F49-A9FB-F48EFBE77DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F35307D-1E2F-4F49-A9FB-F48EFBE77DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F35307D-1E2F-4F49-A9FB-F48EFBE77DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F35307D-1E2F-4F49-A9FB-F48EFBE77DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3490B595-6CB6-40A7-989D-D71006587FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3490B595-6CB6-40A7-989D-D71006587FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3490B595-6CB6-40A7-989D-D71006587FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3490B595-6CB6-40A7-989D-D71006587FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6606DF8-1E14-4CF8-8CBF-5FE3B0A94ADC}
+	EndGlobalSection
+EndGlobal
